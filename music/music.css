@@ -1,0 +1,378 @@
+.pop,.jazz,.country,.indian,.instrumental,.rock,.rap{
+    display: block;
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   border: black solid;
+   
+   
+}
+.pop{
+    background-image: url(https://i.pinimg.com/474x/02/03/77/02037704d3385ca66bac20dfd96e77ac.jpg);
+   
+}
+.jazz{
+    background-image: url(https://i.pinimg.com/236x/66/29/f0/6629f0d751f185a50acdbd46482790ae.jpg);
+    
+}
+.country{
+    background-image: url(https://i.pinimg.com/236x/18/6b/38/186b384ee502393dc622cdc1a630938d.jpg);
+  
+}
+.indian{
+    background-image: url(https://i.pinimg.com/564x/6d/d2/f1/6dd2f14df0e77a432df1cd9703a7d3f7.jpg);
+   
+}
+.instrumental{
+    background-image: url(https://i.pinimg.com/236x/a5/0a/17/a50a17b96bdf645ee7e215f92e6548ee.jpg);
+    
+    }
+.rock{
+    background-image: url(https://i.pinimg.com/236x/92/d4/39/92d4397cfce1cc12813775b3da352bbe.jpg);
+    
+}
+.rap{
+    background-image: url(https://i.pinimg.com/236x/c2/2f/07/c22f076ba4868d07b34d2c7f4cbf14bf.jpg);
+    
+}
+.popbg{
+   background-color: rgb(175, 174, 138);
+}
+.indianbg{
+    background-color: rgb(126, 77, 85);
+ }
+ .rapbg{
+    background-color: rgb(8, 37, 37);
+ }
+ .rockbg{
+    background-color: rgb(87, 24, 27);
+ }
+ .instrumentalbg{
+    background-color: rgb(96, 84, 141);
+ }
+ .jazzbg{
+    background-color: rgb(99, 105, 61);
+ }
+ .countrybg{
+    background-color: rgb(28, 68, 46);
+ }
+ .spotify,.ig,.wiki{
+    padding-right: 100px;
+    border-radius: 50px;
+ }
+ .tayimg{
+    background-image: url(https://i.pinimg.com/236x/52/5d/26/525d26bf635826d0d2e3e909fa0b52e5.jpg);
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+    margin-left: 300px;
+    margin-right: 300px;
+    border: black solid;
+   border-width: 15px;
+    
+    
+  
+
+ }
+ .gagaimg{
+    background-image: url(https://i.pinimg.com/564x/31/4c/a3/314ca3e08f677b262e50aa0f42f3795d.jpg);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: black solid;
+   border-width: 15px;
+
+ }
+ .bieberimg{
+background-image: url(https://i.pinimg.com/236x/df/ca/25/dfca257fbabe1f501e9269e09b3a0cfc.jpg);
+padding-top: 50px;
+padding-bottom: 50px;
+margin-left: 300px;
+    margin-right: 300px;
+    border: black solid;
+   border-width: 15px;
+ }
+ .beyonceimg{
+background-image: url(https://i.pinimg.com/236x/84/2b/3d/842b3d187d8f1c62d72f88a07df8e914.jpg);
+padding-top: 50px;
+padding-bottom: 50px;
+margin-left: 300px;
+    margin-right: 300px;
+    border: black solid;
+   border-width: 15px;
+ }
+ .ariimg{
+background-image: url(https://i.pinimg.com/564x/dd/72/73/dd72739b1095d3e349cb61c19ed37fd3.jpg);
+padding-top: 50px;
+padding-bottom: 50px;
+margin-left: 300px;
+    margin-right: 300px;
+    border: black solid;
+   border-width: 15px;
+ }
+ .michaelimg{
+    background-image: url(https://i.pinimg.com/236x/9d/e8/ff/9de8ff2f5417de8c807ec516f1a41ad2.jpg);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: black solid;
+   border-width: 15px;
+ }
+ .bh,.ph{
+    text-align: center;
+    color: rgb(66, 57, 4);
+    font-family: cursive;
+    font-size: 60px;
+    background-color: aliceblue;
+ }
+ 
+ .tayh,.emh,.elh,.gh{
+    text-align: center;
+    color: rgb(80, 7, 25);
+    font-family: cursive;
+    font-size: 60px;
+    background-color: aliceblue;
+ }
+ .lh,.sgh,.acdch,.timh{
+    text-align: center;
+    color: rgb(8, 16, 39);
+    font-family: cursive;
+    font-size: 60px;
+    background-color: aliceblue;
+ }
+ .jh,.nmh,.rollh,.vh{
+    text-align: center;
+    color: rgb(8, 44, 16);
+    font-family: cursive;
+    font-size: 60px;
+    background-color: aliceblue;
+ }
+ 
+ .mh,.acdc,.lah,.bsh,.ph{
+    text-align: center;
+    color: rgb(112, 126, 49);
+    font-family: cursive;
+    font-size: 60px;
+    background-color: aliceblue;
+ }
+ 
+ .ah,.bonh,.mdh,.tsh,.fh{
+    text-align: center;
+    color: rgb(61, 21, 66);
+    font-family: cursive;
+    font-size: 60px;
+    background-color: aliceblue;
+ }
+ .main{
+    text-align: center;
+    color: midnightblue;
+    font-size: 70px;
+    font-family: fantasy;
+    background-color: cadetblue;
+ }
+ .details{
+    
+    background-color: darkgrey;
+    justify-content: center;
+ }
+
+
+.taylorswift,.arianagrande,.justinbieber,.michaeljackson,.beyonce,.ladygaga,.louisarmstronghouse,.ellafitzgerald,.milesdavis,.timmcgraw,.blakeshelton,.Arrehman,.Arijit,.mohit,.shreyaghoshal,.kishorekumar,.RaviShankar,.bhimsenjoshi,.acdc,.bonjovi,.therollingstones,.eminem,.nikiminaj,.snoopdogg,.guitar,.piano,.violin,.flute{
+    display: block;
+    text-align: center;
+}
+.rahmanimg{
+   background-image: url(https://i.pinimg.com/564x/54/13/c3/5413c3bfdc0097d484fd2f1a07da68c9.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+
+.arimg{
+   background-image: url(https://i.pinimg.com/236x/76/22/95/762295cb7abe6b40e260dd02d6822231.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.rahmanimg{
+   background-image: url(https://i.pinimg.com/564x/54/13/c3/5413c3bfdc0097d484fd2f1a07da68c9.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.bsimg{
+   background-image: url(https://i.pinimg.com/236x/a5/aa/e7/a5aae7f777fc8b1458435347ebfe1351.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.tayyimg{
+   background-image: url(https://i.pinimg.com/564x/b1/67/2d/b1672d44a1b180182cd139f178f4e0b2.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.nmimg{
+   background-image: url(https://i.pinimg.com/236x/b3/04/ed/b304edab45cb0e169211481d8f37b88c.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.emimg{
+   background-image: url(https://i.pinimg.com/236x/a6/8b/b8/a68bb86cd3ad11c048158645fe15f0c8.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.sdimg{
+   background-image: url(https://i.pinimg.com/236x/20/a7/a5/20a7a5c0f66f6370aeca872c91d70abd.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.acdcimg{
+   background-image: url(https://i.pinimg.com/236x/3c/d4/db/3cd4db324c770bf865798cb4bd919707.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.bjimg{
+   background-image: url(https://i.pinimg.com/236x/22/39/81/2239813ac1c7ab3731e42122c2074e80.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.trsimg{
+   background-image: url(https://i.pinimg.com/236x/ce/ef/66/ceef663cf71581f30bf7cfc8961927b4.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.laimg{
+   background-image: url(https://i.pinimg.com/236x/2d/90/73/2d9073721bc8a409afa528ad8ea3dfa3.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.efimg{
+   background-image: url(https://i.pinimg.com/236x/ad/14/80/ad1480d505335954b291e176b21891ee.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.mdimg{
+   background-image: url(https://i.pinimg.com/236x/b3/a1/44/b3a14400762e9a25a9c0ab4b5796a86d.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.timg{
+   background-image: url(https://i.pinimg.com/236x/56/03/92/560392b8dcdb7dbe5354004d1606f946.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.tayyimg{
+   background-image: url(https://i.pinimg.com/564x/b1/67/2d/b1672d44a1b180182cd139f178f4e0b2.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.gimg{
+   background-image: url(https://i.pinimg.com/736x/53/3b/a6/533ba6c4447f6934d23a06188de0d29a.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.pimg{
+   background-image: url(https://i.pinimg.com/236x/b8/d6/ea/b8d6ea45a239741d9a18a812553594c0.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.vimg{
+   background-image: url(https://i.pinimg.com/236x/9a/91/8f/9a918fbb9d65b1ae71a9edf65fa66efc.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+.fimg{
+   background-image: url(https://i.pinimg.com/564x/56/8d/2f/568d2f3c706238740301001c8518c37d.jpg);
+   padding-top: 50px;
+   padding-bottom: 50px;
+   margin-left: 300px;
+   margin-right: 300px;
+   border: black solid;
+   border-width: 15px;
+}
+details{
+  
+   
+   font-size: 50px;
+}
+.taylorswift{
+   text-align: left;
+}
+table{
+   width: 1200px;
+}
